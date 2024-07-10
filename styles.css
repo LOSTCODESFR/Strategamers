@@ -1,0 +1,29 @@
+h1 {
+  font-family: Tahoma;
+  background-color: rgb(150, 150, 230);
+  color: white;
+  padding: 5px 10px;
+  font-size: 60px;
+}
+
+body {
+  background-color: rgb(140, 0, 255);
+}
+
+.logo {
+  height: 60px;
+}
+
+.gamecover {
+  border-radius: 20px;
+  border: 5px solid white;
+  height: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Tahoma;
+  color: white;
+  font-size: 30px;
+  margin: 3px 0;
+  border-bottom: 2.5px solid rgb(150, 150, 230);
