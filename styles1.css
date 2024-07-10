@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(140, 0, 255);
+}
+
+label {
+  font-family: Tahoma;
+  color: white;
+}
+
+h2 {
+  font-family: Tahoma;
+  font-size: 40px;
+  color: white;
+}
+
+h1 {
+  font-family: Tahoma;
+  background-color: rgb(150, 150, 230);
+  color: white;
+  padding: 5px 10px;
+  font-size: 60px;
+  
+  .logo {
+  height: 60px;
+}

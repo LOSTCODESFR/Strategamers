@@ -20,6 +20,22 @@ body {
   height: 500px;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: rgb(150, 150, 230);
+}
+
+a:visited {
+  color: white;
+}
+
+a:active {
+  color: blue;
+}
+
 h2 {
   text-align: center;
   font-family: Tahoma;
